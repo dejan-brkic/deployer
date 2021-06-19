@@ -21,7 +21,7 @@
 	<properties>
 		<!-- Version Numbers -->
 		<commons.configuration.version>2.1</commons.configuration.version>
-		<jgit.version>4.5.0.201609210915-r</jgit.version>
+		<jgit.version>4.10.0.201712302008-r</jgit.version>
 		<snakeyaml.version>1.17</snakeyaml.version>
 		<java.version>1.8</java.version>
 
